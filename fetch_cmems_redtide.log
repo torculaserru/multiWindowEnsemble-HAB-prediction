@@ -1,0 +1,168 @@
+2026-05-30 15:38:02,704 [INFO] Loading base dataset: easternVisayasRedTide.csv
+2026-05-30 15:38:02,760 [INFO] 
+Province bounding boxes:
+2026-05-30 15:38:02,760 [INFO]   Eastern Samar    Lat [10.86 – 11.30]  Lon [125.50 – 125.69]
+2026-05-30 15:38:02,760 [INFO]   Western Samar    Lat [11.47 – 11.83]  Lon [124.79 – 125.10]
+2026-05-30 15:38:02,760 [INFO]   Leyte            Lat [11.26 – 11.52]  Lon [124.52 – 124.85]
+2026-05-30 15:38:02,760 [INFO]   Biliran          Lat [11.44 – 11.75]  Lon [124.31 – 124.67]
+2026-05-30 15:38:11,723 [INFO] Selected dataset version: "202406"
+2026-05-30 15:38:11,724 [INFO] Selected dataset part: "default"
+2026-05-30 15:38:11,724 [WARNING] Some of your subset selection [0.0, 1.0] for the depth dimension exceed the dataset coordinates [0.5057600140571594, 5902.0576171875]
+2026-05-30 15:38:28,519 [INFO]   Saved: bgc_eastern_samar_2000.parquet
+2026-05-30 15:38:39,509 [INFO] Selected dataset version: "202406"
+2026-05-30 15:38:39,509 [INFO] Selected dataset part: "default"
+2026-05-30 15:38:39,509 [WARNING] Some of your subset selection [0.0, 1.0] for the depth dimension exceed the dataset coordinates [0.5057600140571594, 5902.0576171875]
+2026-05-30 15:38:49,550 [INFO]   Saved: bgc_eastern_samar_2001.parquet
+2026-05-30 15:38:57,557 [INFO] Selected dataset version: "202406"
+2026-05-30 15:38:57,557 [INFO] Selected dataset part: "default"
+2026-05-30 15:38:57,557 [WARNING] Some of your subset selection [0.0, 1.0] for the depth dimension exceed the dataset coordinates [0.5057600140571594, 5902.0576171875]
+2026-05-30 15:39:07,679 [INFO]   Saved: bgc_eastern_samar_2002.parquet
+2026-05-30 15:39:12,983 [INFO] Selected dataset version: "202406"
+2026-05-30 15:39:12,983 [INFO] Selected dataset part: "default"
+2026-05-30 15:39:12,987 [WARNING] Some of your subset selection [0.0, 1.0] for the depth dimension exceed the dataset coordinates [0.5057600140571594, 5902.0576171875]
+2026-05-30 15:39:19,687 [INFO]   Saved: bgc_eastern_samar_2003.parquet
+2026-05-30 15:39:24,423 [INFO] Selected dataset version: "202406"
+2026-05-30 15:39:24,423 [INFO] Selected dataset part: "default"
+2026-05-30 15:39:24,423 [WARNING] Some of your subset selection [0.0, 1.0] for the depth dimension exceed the dataset coordinates [0.5057600140571594, 5902.0576171875]
+2026-05-30 15:39:32,651 [INFO]   Saved: bgc_eastern_samar_2004.parquet
+2026-05-30 15:39:38,051 [INFO] Selected dataset version: "202406"
+2026-05-30 15:39:38,051 [INFO] Selected dataset part: "default"
+2026-05-30 15:39:38,051 [WARNING] Some of your subset selection [0.0, 1.0] for the depth dimension exceed the dataset coordinates [0.5057600140571594, 5902.0576171875]
+2026-05-30 15:39:44,398 [INFO]   Saved: bgc_eastern_samar_2005.parquet
+2026-05-30 15:39:49,621 [INFO] Selected dataset version: "202406"
+2026-05-30 15:39:49,621 [INFO] Selected dataset part: "default"
+2026-05-30 15:39:49,621 [WARNING] Some of your subset selection [0.0, 1.0] for the depth dimension exceed the dataset coordinates [0.5057600140571594, 5902.0576171875]
+2026-05-30 15:39:56,055 [INFO]   Saved: bgc_eastern_samar_2006.parquet
+2026-05-30 15:40:01,430 [INFO] Selected dataset version: "202406"
+2026-05-30 15:40:01,431 [INFO] Selected dataset part: "default"
+2026-05-30 15:40:01,437 [WARNING] Some of your subset selection [0.0, 1.0] for the depth dimension exceed the dataset coordinates [0.5057600140571594, 5902.0576171875]
+2026-05-30 15:40:10,201 [INFO]   Saved: bgc_eastern_samar_2007.parquet
+2026-05-30 15:40:20,313 [INFO] Selected dataset version: "202406"
+2026-05-30 15:40:20,314 [INFO] Selected dataset part: "default"
+2026-05-30 15:40:20,314 [WARNING] Some of your subset selection [0.0, 1.0] for the depth dimension exceed the dataset coordinates [0.5057600140571594, 5902.0576171875]
+2026-05-30 15:40:31,079 [INFO]   Saved: bgc_eastern_samar_2008.parquet
+2026-05-30 15:43:56,915 [INFO] Loading base dataset: easternVisayasRedTide.csv
+2026-05-30 15:43:56,951 [INFO] 
+Province bounding boxes:
+2026-05-30 15:43:56,951 [INFO]   Eastern Samar    Lat [10.86 – 11.30]  Lon [125.50 – 125.69]
+2026-05-30 15:43:56,952 [INFO]   Western Samar    Lat [11.47 – 11.83]  Lon [124.79 – 125.10]
+2026-05-30 15:43:56,952 [INFO]   Leyte            Lat [11.26 – 11.52]  Lon [124.52 – 124.85]
+2026-05-30 15:43:56,952 [INFO]   Biliran          Lat [11.44 – 11.75]  Lon [124.31 – 124.67]
+2026-05-30 15:43:56,957 [INFO]   Checkpoint hit: bgc_eastern_samar_2000.parquet
+2026-05-30 15:43:57,084 [INFO]   Checkpoint hit: bgc_eastern_samar_2001.parquet
+2026-05-30 15:43:57,097 [INFO]   Checkpoint hit: bgc_eastern_samar_2002.parquet
+2026-05-30 15:43:57,103 [INFO]   Checkpoint hit: bgc_eastern_samar_2003.parquet
+2026-05-30 15:43:57,118 [INFO]   Checkpoint hit: bgc_eastern_samar_2004.parquet
+2026-05-30 15:43:57,139 [INFO]   Checkpoint hit: bgc_eastern_samar_2005.parquet
+2026-05-30 15:43:57,152 [INFO]   Checkpoint hit: bgc_eastern_samar_2006.parquet
+2026-05-30 15:43:57,162 [INFO]   Checkpoint hit: bgc_eastern_samar_2007.parquet
+2026-05-30 15:43:57,176 [INFO]   Checkpoint hit: bgc_eastern_samar_2008.parquet
+2026-05-30 15:44:05,406 [INFO] Selected dataset version: "202406"
+2026-05-30 15:44:05,406 [INFO] Selected dataset part: "default"
+2026-05-30 15:44:17,940 [INFO]   shallowest depth level: 0.5058 m
+2026-05-30 15:44:23,599 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:23,601 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:23,893 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:23,954 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:24,093 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:24,128 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:24,730 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:24,786 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:25,403 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:26,419 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:31,547 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:32,031 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:32,031 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:32,040 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:32,097 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:32,097 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:32,118 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:32,549 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:32,594 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:33,400 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:44:33,433 [INFO]   Saved: bgc_eastern_samar_2009.parquet
+2026-05-30 15:44:43,082 [INFO] Selected dataset version: "202406"
+2026-05-30 15:44:43,082 [INFO] Selected dataset part: "default"
+2026-05-30 15:44:55,923 [INFO]   shallowest depth level: 0.5058 m
+2026-05-30 15:45:03,668 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:04,073 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:04,082 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:04,082 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:04,082 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:04,089 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:04,291 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:04,378 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:04,946 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:05,705 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:08,774 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:08,774 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:09,016 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:09,551 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:09,562 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:09,569 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:09,569 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:09,571 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:09,578 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:09,739 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:09,768 [INFO]   Saved: bgc_eastern_samar_2010.parquet
+2026-05-30 15:45:15,435 [INFO] Selected dataset version: "202406"
+2026-05-30 15:45:15,435 [INFO] Selected dataset part: "default"
+2026-05-30 15:45:20,164 [INFO]   shallowest depth level: 0.5058 m
+2026-05-30 15:45:24,537 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:24,546 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:24,547 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:24,555 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:24,555 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:24,564 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:24,578 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:24,586 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:24,743 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:24,780 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:27,759 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:28,122 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:28,566 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:28,566 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:28,777 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:28,824 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:28,826 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:28,829 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:28,846 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:29,089 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:29,114 [INFO]   Saved: bgc_eastern_samar_2011.parquet
+2026-05-30 15:45:33,527 [INFO] Selected dataset version: "202406"
+2026-05-30 15:45:33,527 [INFO] Selected dataset part: "default"
+2026-05-30 15:45:38,072 [INFO]   shallowest depth level: 0.5058 m
+2026-05-30 15:45:43,510 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:43,512 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:43,517 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:43,531 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:43,546 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:43,546 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:43,660 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:43,702 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:43,785 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:44,468 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:48,279 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:48,893 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:48,912 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:48,912 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:48,919 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:48,945 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:48,957 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:49,004 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:49,192 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:49,242 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:45:49,268 [INFO]   Saved: bgc_eastern_samar_2012.parquet
+2026-05-30 15:45:54,963 [INFO] Selected dataset version: "202406"
+2026-05-30 15:45:54,963 [INFO] Selected dataset part: "default"
+2026-05-30 15:46:04,383 [INFO]   shallowest depth level: 0.5058 m
+2026-05-30 15:46:14,121 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:46:14,480 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:46:14,709 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:46:15,448 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:46:19,483 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:46:24,637 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:46:25,328 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:46:25,849 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:46:28,192 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
+2026-05-30 15:46:44,186 [WARNING] Connection pool is full, discarding connection: s3.waw3-1.cloudferro.com. Connection pool size: 10
